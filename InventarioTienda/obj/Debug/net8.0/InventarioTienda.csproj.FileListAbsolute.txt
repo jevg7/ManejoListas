@@ -1,0 +1,18 @@
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.AssemblyInfoInputs.cache
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.AssemblyInfo.cs
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\InventarioTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\InventarioTienda.AssemblyInfoInputs.cache
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\InventarioTienda.AssemblyInfo.cs
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\InventarioTienda.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\bin\Debug\net8.0\InventarioTienda.exe
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\bin\Debug\net8.0\InventarioTienda.deps.json
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\bin\Debug\net8.0\InventarioTienda.runtimeconfig.json
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\bin\Debug\net8.0\InventarioTienda.dll
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\bin\Debug\net8.0\InventarioTienda.pdb
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\InventarioTienda.dll
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\refint\InventarioTienda.dll
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\InventarioTienda.pdb
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\InventarioTienda.genruntimeconfig.cache
+C:\Users\Jairo Vega\Desktop\Manejo de Listas\InventarioTienda\obj\Debug\net8.0\ref\InventarioTienda.dll
